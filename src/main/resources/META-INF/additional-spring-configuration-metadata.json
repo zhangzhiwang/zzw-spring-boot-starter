@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "name": "zzw.uid",
+      "type": "java.lang.Integer",
+      "description": "用户id",
+      "defaultValue": "0"
+    },{
+      "name": "zzw.userName",
+      "type": "java.lang.String",
+      "description": "用户姓名",
+      "defaultValue": "nobody"
+    },{
+      "name": "zzw.isMale",
+      "type": "java.lang.Boolean",
+      "description": "是否是男性",
+      "defaultValue": false
+    }
+  ]
+}
